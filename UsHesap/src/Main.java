@@ -10,7 +10,7 @@ public class Main {
         int y = inp.nextInt();
         for (int i = 0; i <= 10; i++)
         {
-            System.out.println("Sayi : " + Math.pow(2, i));
+            System.out.println("Cikis: " + Math.pow(2, i));
         }
 
     }
