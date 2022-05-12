@@ -10,7 +10,7 @@ public class Main {
                     letter[i][j] = " * ";
                 }
                 else {
-                    letter[i][j] = "  ";
+                    letter[i][j] = "   ";
                 }
                  if(i == 6){
                     letter[i][j] = " * ";
